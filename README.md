@@ -1,4 +1,4 @@
-# COVID-19-project
+# SQL COVID-19-project
 Using SQL Server, I discovered insights about COVID-19 pandemic around the world, i.e.
 
 • factors correlated to COVID-19 severity such as old age, low income, GDP
